@@ -1,0 +1,171 @@
+
+.navbar {
+	background-color: #ff8000;
+}
+
+
+.nav-item, .nav-link  {
+	color: black; 
+	margin-left: 10px;
+	font-size: 20px ;
+}
+
+.header {
+	background-image: url('../images/work.jpg');
+	background-attachment: fixed;
+	background-size: cover ; 
+	background-position: center ; 
+	height: 100vh;
+}
+.overlay {
+	position: absolute;
+	min-height: 100%;
+	min-width: 100% ; 
+	left: 0;
+	top: 0;
+	background: rgba(244,244,244,0.60);
+}
+.description {
+	position: absolute;
+	top: 30% ; 
+	left: 20%;
+	margin: auto;
+	padding: 2em;
+}
+.description p {
+	color: #666;
+	font-size: 20px;
+	width: 50%;
+	line-height: 1,5;
+}
+
+.description button {
+	  border: 1px solid #F97300;
+	    color: #fff;
+	    background: :#F97300;
+}
+.description h1 {
+	color: #696969; 
+}
+.img-main{
+float:left;width: 200px;height: 200px; 
+border-radius: 50%;
+}
+
+.about h1 {
+	color: #ff8000 ; 
+	font-size: 40px;  
+	font-family: 'Signika', sans-serif; padding-bottom: 10px;
+	text-align: center;
+}
+.about p {
+	font-family: 'Inder', sans-serif; line-height: 28px; margin-bottom: 15px;
+	color: #666 ;
+}
+
+.about .desc {
+	padding: 2em;
+	border-left: 4px solid #10828C;
+}
+.about {
+	align-items: center;
+	margin: auto; 
+	padding-top: 20%;
+	color: red;
+}
+.about-custom  {
+	position: static;
+	min-height: 100%;
+	min-width: 100% ; 
+	left: 0;
+	top: 0;
+	background-color: hsla(180, 18%, 90%); 
+
+}
+.portfolio {
+	align-items: center;
+	margin: auto; 
+	padding-top: 20%;
+}
+
+.portfolio h1 {
+	color: #ff8000 ; 
+	font-size: 40px;  
+	font-family: 'Signika', sans-serif; padding-bottom: 10px;
+	text-align: center;
+}
+.portfolio-custom {
+	position: static;
+	min-height: 100%;
+	min-width: 100% ; 
+	left: 0;
+	top: 0;
+	background-color: hsla(180, 18%, 90%); 
+}
+
+.card {
+	width: 18rem;
+}
+
+.blog-custom{
+	align-items: center;
+	position: static;
+	min-height: 100%;
+	min-width: 100% ; 
+	left: 0;
+	top: 0;
+	background-color: hsla(180, 18%, 90%);
+}
+.blog {
+	align-items: center;
+	height: 100vh;
+	margin: auto; 
+	padding-top: 10%;
+
+}
+.text-center {
+	color: #ff8000 ; 
+	font-size: 40px;  
+	font-family: 'Signika', sans-serif; padding-bottom: 10px;
+	text-align: center;
+}
+.blog h5 {
+	font-size: 20px;
+	color:  #ff8000
+}
+
+.contact{
+	align-items: center;
+	margin: auto; 
+	padding-top: 20%;
+}
+.contact-custom {
+	align-items: center;
+	position: static
+	min-height: 100%;
+	min-width: 100% ; 
+	left: 0;
+	top: 0;
+	background-color: hsla(180, 18%, 90%);
+}
+.contact p {
+	color: #ff8000 ; 
+	font-size: 30px;  
+	font-family: 'Signika', sans-serif; padding-bottom: 10px;
+	text-align: center;
+	padding-top: 30%;
+}
+.btn-primary.custom-btn {
+	background-color: #ff8000;
+	border-color: #ff8000;
+}
+
+.formmain {
+		align-items: center;
+	position: static;
+	min-height: 100%;
+	min-width: 100% ; 
+	left: 0;
+	top: 0;
+	background-color: hsla(180, 18%, 90%);
+}
